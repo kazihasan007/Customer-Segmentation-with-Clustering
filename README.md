@@ -12,6 +12,8 @@ What It Demonstrates
 
 This project demonstrates the ability to:
 
-Analyze complex data and propose solutions.
-Apply clustering techniques for customer segmentation.
-Use feature engineering and dimensionality reduction to improve model performance and business insights.
+1. Analyze complex data and propose solutions.
+
+2. Apply clustering techniques for customer segmentation.
+
+3. Use feature engineering and dimensionality reduction to improve model performance and business insights.
